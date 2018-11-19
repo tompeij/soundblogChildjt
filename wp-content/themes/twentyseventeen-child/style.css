@@ -10,6 +10,34 @@ Version: 0.1.0
 
 /*test*/
 p {
-    color: pink;
+	color: pink;
+	font-family: 'pt serif';
+}
+
+.site-title {
+	font-family: Roboto;
+}
+
+.site-branding {
+	display: none;
+}
+.metaslider .caption {
+	font-size: 0.6em;
+	font-weight: 800;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+}
+.wpcf7-form label {
+	color: #bbb;
+	font-weight: 400;
+}
+.colors-dark input[type="submit"] {
+	background-color: #bbb
+}
+.colors-dark input[type="submit"]:hover {
+	background-color: #767676;
+}
+.wptl-social-share {
+	display: none;
 }
 
