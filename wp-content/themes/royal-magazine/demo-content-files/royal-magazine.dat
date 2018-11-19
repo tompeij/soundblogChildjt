@@ -1,0 +1,11 @@
+a:4:{s:8:"template";s:14:"royal-magazine";s:4:"mods";a:8:{i:0;b:0;s:18:"custom_css_post_id";i:1862;s:19:"show_slider_section";b:1;s:26:"select_category_for_slider";i:1;s:18:"nav_menu_locations";a:3:{s:7:"primary";i:176;s:6:"social";i:192;s:6:"footer";i:177;}s:24:"home_page_content_status";b:0;s:13:"global_layout";s:10:"no-sidebar";s:21:"excerpt_length_global";i:50;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:198:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+body .mtsnb .mtsnb-button {
+    background-color: #8BC34A;
+    font-size: 15px;
+    box-shadow: 4px 4px 5px #3F51B5;
+}";}

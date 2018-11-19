@@ -1,0 +1,5 @@
+.notice.notice-info {
+    display: none !important;
+    opacity: 0;
+    visibility: hidden;
+}
