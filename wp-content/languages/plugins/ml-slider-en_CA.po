@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - MetaSlider - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-10-25 21:24:43+0000\n"
+"PO-Revision-Date: 2018-11-20 19:51:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,235 @@ msgstr ""
 "X-Generator: GlotPress/2.4.0-alpha\n"
 "Language: en_CA\n"
 "Project-Id-Version: Plugins - MetaSlider - Stable (latest release)\n"
+
+#: ml-slider.php:2040
+msgctxt "Translators: %1$s opens and %2$s closes a strong tag"
+msgid "Show off your %1$sblog posts%2$s, %1$sevents%2$s, %1$sWooCommerce products%2$s and other content with %1$sPost Feed%2$s."
+msgstr "Show off your %1$sblog posts%2$s, %1$sevents%2$s, %1$sWooCommerce products%2$s and other content with %1$sPost Feed%2$s."
+
+#: ml-slider.php:1924
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Insert MetaSlider"
+msgstr "Insert MetaSlider"
+
+#: ml-slider.php:1674 ml-slider.php:1687 ml-slider.php:1700 ml-slider.php:1776
+#: ml-slider.php:1802
+msgctxt "Short for milliseconds"
+msgid "ms"
+msgstr "ms"
+
+#: ml-slider.php:1240
+msgctxt "Use this to separate one action from another action as in Select \"or\" Create"
+msgid "or"
+msgstr "or"
+
+#: admin/views/pages/upgrade.php:179
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Using innovative RSA public-key cryptography, Keyy is highly secure and prevents password-based hacking risks such as brute-forcing, key-logging, shoulder-surfing and connection sniffing."
+msgstr "Using innovative RSA public-key cryptography, Keyy is highly secure and prevents password-based hacking risks such as brute-forcing, key-logging, shoulder-surfing and connection sniffing."
+
+#: admin/views/pages/upgrade.php:177
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy – instant &amp; secure logins with a wave of your phone"
+msgstr "Keyy – instant &amp; secure logins with a wave of your phone"
+
+#: admin/views/pages/upgrade.php:176
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy Two-Factor Authentication"
+msgstr "Keyy Two-Factor Authentication"
+
+#: admin/views/pages/upgrade.php:167
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "Incredibly simple to use, WP-Optimize clears out old webpage revisions, spam, trash and unapproved comments, all of which take up megabytes of valuable space and leave your database sluggish and ultimately unfit for purpose."
+msgstr "Incredibly simple to use, WP-Optimize clears out old webpage revisions, spam, trash and unapproved comments, all of which take up megabytes of valuable space and leave your database sluggish and ultimately unfit for purpose."
+
+#: admin/views/pages/upgrade.php:166
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "WP-Optimize, the #1 optimization plugin, keeps your WordPress site at prime speed by cleaning the database without the need for phpMyAdmin."
+msgstr "WP-Optimize, the #1 optimization plugin, keeps your WordPress site at prime speed by cleaning the database without the need for phpMyAdmin."
+
+#: admin/views/pages/upgrade.php:165
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "Wp-Optimize – faster, fitter, cleaner WP sites for optimal performance."
+msgstr "Wp-Optimize – faster, fitter, cleaner WP sites for optimal performance."
+
+#: admin/views/pages/upgrade.php:156
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "With a wide range of useful features, including automated backup schedules and sophisticated one click updates, UpdraftCentral is sure to boost to your productivity and save you time."
+msgstr "With a wide range of useful features, including automated backup schedules and sophisticated one click updates, UpdraftCentral is sure to boost to your productivity and save you time."
+
+#: admin/views/pages/upgrade.php:155
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral is a powerful tool that allows you to efficiently manage, update, backup and even restore multiple websites from just one location. You can also manage users and comments on all the sites at once, and through its central login feature, you can access each WP-dashboard with a single click."
+msgstr "UpdraftCentral is a powerful tool that allows you to efficiently manage, update, backup and even restore multiple websites from just one location. You can also manage users and comments on all the sites at once, and through its central login feature, you can access each WP-dashboard with a single click."
+
+#: admin/views/pages/upgrade.php:154
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "If you manage a few WordPress sites, you need UpdraftCentral."
+msgstr "If you manage a few WordPress sites, you need UpdraftCentral."
+
+#: admin/views/pages/upgrade.php:153
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral – save hours managing multiple WP sites from one place"
+msgstr "UpdraftCentral – save hours managing multiple WP sites from one place"
+
+#: admin/views/pages/upgrade.php:152
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral Dashboard"
+msgstr "UpdraftCentral Dashboard"
+
+#: admin/views/pages/upgrade.php:144
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "With a long-standing reputation for excellence and outstanding reviews, it’s no wonder that UpdraftPlus is the world’s most popular WordPress backup plugin."
+msgstr "With a long-standing reputation for excellence and outstanding reviews, it’s no wonder that UpdraftPlus is the world’s most popular WordPress backup plugin."
+
+#: admin/views/pages/upgrade.php:142
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "With UpdraftPlus, you can rest assured that if the worst does happen, it's no big deal. rather than losing everything, you can simply restore the backup and be up and running again in no time at all."
+msgstr "With UpdraftPlus, you can rest assured that if the worst does happen, it's no big deal. rather than losing everything, you can simply restore the backup and be up and running again in no time at all."
+
+#: admin/views/pages/upgrade.php:138
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "UpdraftPlus – the ultimate protection for your site, hard work and business"
+msgstr "UpdraftPlus – the ultimate protection for your site, hard work and business"
+
+#: admin/views/pages/upgrade.php:74
+msgid "HTML overlay slides"
+msgstr "HTML overlay slides"
+
+#: admin/views/pages/upgrade.php:68
+msgctxt "\"YouTube\" and \"Vimeo\" are brand names."
+msgid "Easily include responsive high definition YouTube and Vimeo videos."
+msgstr "Easily include responsive high definition YouTube and Vimeo videos."
+
+#: admin/views/pages/upgrade.php:54
+msgctxt "Keep the branding \"Smart Crop\" together when possible"
+msgid "Unique Smart Crop functionality ensures your slides are perfectly resized."
+msgstr "Unique Smart Crop functionality ensures your slides are perfectly resized."
+
+#: admin/views/pages/upgrade.php:47
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Our word to keep MetaSlider compatible with the latest versions of WordPress."
+msgstr "Our word to keep MetaSlider compatible with the latest versions of WordPress."
+
+#: admin/views/pages/upgrade.php:40
+msgctxt "\"FlexSlider\" and \"Nivo Slider\" are plugin names."
+msgid "Including FlexSlider, Nivo Slider and we will soon be adding more."
+msgstr "Including FlexSlider, Nivo Slider and we will soon be adding more."
+
+#: admin/views/pages/upgrade.php:20 admin/views/pages/upgrade.php:21
+msgid "MetaSlider logo"
+msgstr "MetaSlider logo"
+
+#: admin/Notices.php:567
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Review MetaSlider"
+msgstr "Review MetaSlider"
+
+#: admin/Notices.php:565
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "Get UpdraftCentral"
+msgstr "Get UpdraftCentral"
+
+#: admin/Notices.php:564
+msgctxt "This refers to WP_Optimize, but please translate \"optimize\" accordingly"
+msgid "Optimize today"
+msgstr "Optimize today"
+
+#: admin/Notices.php:563
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Get Keyy"
+msgstr "Get Keyy"
+
+#: admin/Notices.php:562
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "Get UpdraftPlus"
+msgstr "Get UpdraftPlus"
+
+#: admin/Notices.php:332
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral"
+msgstr "UpdraftCentral"
+
+#: admin/Notices.php:325
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy"
+msgstr "Keyy"
+
+#: admin/Notices.php:318 admin/views/pages/upgrade.php:164
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "WP-Optimize"
+msgstr "WP-Optimize"
+
+#: admin/Notices.php:311
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "UpdraftPlus"
+msgstr "UpdraftPlus"
+
+#: admin/Notices.php:290
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "MetaSlider Add-on Pack:"
+msgstr "MetaSlider Add-on Pack:"
+
+#: admin/Notices.php:267
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
+msgstr "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
+
+#: admin/Notices.php:254
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
+msgstr "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
+
+#: admin/Notices.php:241
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
+msgstr "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
+
+#: admin/Notices.php:228
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
+msgstr "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
+
+#: admin/Notices.php:215
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible. Also, \"Black Friday\" is the name of an event in the United States"
+msgid "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
+msgstr "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
+
+#: admin/Notices.php:172
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Thank you for installing MetaSlider"
+msgstr "Thank you for installing MetaSlider"
+
+#: admin/Notices.php:142
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "With the MetaSlider Add-on pack you can give your slideshows a professional look!"
+msgstr "With the MetaSlider Add-on pack you can give your slideshows a professional look!"
+
+#: admin/Notices.php:122
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Please help MetaSlider by giving a positive review at wordpress.org."
+msgstr "Please help MetaSlider by giving a positive review at wordpress.org."
+
+#: admin/Notices.php:121
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Like MetaSlider and have a minute to spare?"
+msgstr "Like MetaSlider and have a minute to spare?"
+
+#: admin/Notices.php:111
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral is a highly efficient way to take backup, update and manage multiple WP sites from one location"
+msgstr "UpdraftCentral is a highly efficient way to take backup, update and manage multiple WP sites from one location"
+
+#: admin/Notices.php:99
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy: Instant and secure logon with a wave of your phone"
+msgstr "Keyy: Instant and secure logon with a wave of your phone"
+
+#: admin/Notices.php:89
+msgctxt "Keep the plugin names \"UpdraftPlus\" and \"MetaSlider\" when possible"
+msgid "UpdraftPlus is the world's #1 backup plugin from the makers of MetaSlider. Backup to the cloud, on a schedule and restore with 1 click!"
+msgstr "UpdraftPlus is the world's #1 backup plugin from the makers of MetaSlider. Backup to the cloud, on a schedule and restore with 1 click!"
 
 #: themes/manifest.php:174
 msgid "The Nivo Dark theme included here for legacy purposes. Note: only works with Nivo Slider"
@@ -68,63 +297,59 @@ msgid "Your selected theme is no longer available. Was the folder deleted?"
 msgstr "Your selected theme is no longer available. Was the folder deleted?"
 
 #: themes/manifest.php:41
-msgid "A minimilistic, no-frills design that was built to blend in with most themes."
+msgid "A minimalistic, no-frills design that was built to blend in with most themes."
 msgstr "A minimalistic, no-frills design that was built to blend in with most themes."
 
-#: ml-slider.php:2075
+#: ml-slider.php:2076
 msgid "Copy all code"
 msgstr "Copy all code"
 
-#: ml-slider.php:2072
+#: ml-slider.php:2073
 msgid "Show title"
 msgstr "Show title"
 
-#: ml-slider.php:2041
+#: ml-slider.php:2042
 msgid "Post Feed slides can also be used with other slide types to either show one post at a time or in a carousel mode, allowing you to show off a large number of your latest posts in a small amount of space."
 msgstr "Post Feed slides can also be used with other slide types to either show one post at a time or in a carousel mode, allowing you to show off a large number of your latest posts in a small amount of space."
 
-#: ml-slider.php:2040
+#: ml-slider.php:2041
 msgid "Customise and control which post types you want to display, their order and how to restrict posts to certain tags or categories."
 msgstr "Customise and control which post types you want to display, their order and how to restrict posts to certain tags or categories."
 
-#: ml-slider.php:2039
-msgid "Show off your <strong>blog posts</strong>, <strong>events</strong>, <strong>WooCommerce products</strong> and other content with <strong>Post Feed</strong>."
-msgstr "Show off your <strong>blog posts</strong>, <strong>events</strong>, <strong>WooCommerce products</strong> and other content with <strong>Post Feed</strong>."
-
-#: ml-slider.php:2014
+#: ml-slider.php:2015
 msgid "Create a slideshow full of your favorite videos easily and quickly by simply adding a URL to a YouTube slide."
 msgstr "Create a slideshow full of your favourite videos easily and quickly by simply adding a URL to a YouTube slide."
 
-#: ml-slider.php:1990 ml-slider.php:2016
+#: ml-slider.php:1991 ml-slider.php:2017
 msgid "You could even have the slider autoplay a video, giving you a smooth, completely automatic presentation!"
 msgstr "You could even have the slider autoplay a video, giving you a smooth, completely automatic presentation!"
 
-#: ml-slider.php:1989 ml-slider.php:2015
+#: ml-slider.php:1990 ml-slider.php:2016
 msgid "Features include an automatic play/pause function, in which your slideshow will detect when you set a video to play and continue once the video has finished."
 msgstr "Features include an automatic play/pause function, in which your slideshow will detect when you set a video to play and continue once the video has finished."
 
-#: ml-slider.php:1988
+#: ml-slider.php:1989
 msgid "Create a slideshow full of your favorite videos easily and quickly by simply adding a URL to a Vimeo slide."
 msgstr "Create a slideshow full of your favourite videos easily and quickly by simply adding a URL to a Vimeo slide."
 
-#: ml-slider.php:1965 ml-slider.php:1992 ml-slider.php:2018 ml-slider.php:2043
+#: ml-slider.php:1966 ml-slider.php:1993 ml-slider.php:2019 ml-slider.php:2044
 msgid "Opens in a new window"
 msgstr "Opens in a new window"
 
-#: ml-slider.php:1964 ml-slider.php:1991 ml-slider.php:2017 ml-slider.php:2042
+#: ml-slider.php:1965 ml-slider.php:1992 ml-slider.php:2018 ml-slider.php:2043
 msgid "Find out more about all the features of the Add-on Pack here"
 msgstr "Find out more about all the features of the Add-on Pack here"
 
-#: ml-slider.php:1963
+#: ml-slider.php:1964
 msgid "Additional optimization and customization options including using a video as the slide background, and adjusting the padding and background color of each layer."
 msgstr "Additional optimization and customization options including using a video as the slide background, and adjusting the padding and background colour of each layer."
 
-#: ml-slider.php:1962
+#: ml-slider.php:1963
 msgctxt "Translators: %1$s opens and %2$s closes a strong tag"
 msgid "Layers can include %1$s text, HTML, images, videos %2$s and even %1$s shortcodes%2$s!"
 msgstr "Layers can include %1$s text, HTML, images, videos %2$s and even %1$s shortcodes%2$s!"
 
-#: ml-slider.php:1962
+#: ml-slider.php:1963
 msgctxt "Translators: %s opens and closes a strong tag"
 msgid "Ideal for easily creating eye-catching presentations and slideshows using stunning effects with %s 30 animation options %s and a beautiful, easy to use interface."
 msgstr "Ideal for easily creating eye-catching presentations and slideshows using stunning effects with %s 30 animation options %s and a beautiful, easy to use interface."
@@ -186,23 +411,23 @@ msgstr "This slideshow is no longer available."
 msgid "The request format was not valid."
 msgstr "The request format was not valid."
 
-#: ml-slider.php:1636
+#: ml-slider.php:1637
 msgid "Fade in the first slide"
 msgstr "Fade in the first slide"
 
-#: ml-slider.php:1633
+#: ml-slider.php:1634
 msgid "Fade in"
 msgstr "Fade in"
 
-#: ml-slider.php:672
+#: ml-slider.php:673
 msgid "The slideshow was successfully updated."
 msgstr "The slideshow was successfully updated."
 
-#: ml-slider.php:656
+#: ml-slider.php:657
 msgid "There was an error while updating the title."
 msgstr "There was an error while updating the title."
 
-#: ml-slider.php:624
+#: ml-slider.php:625
 msgid "The slideshow you're trying to update was not found."
 msgstr "The slideshow you're trying to update was not found."
 
@@ -248,23 +473,23 @@ msgstr "Enable this to inherit the caption from the image"
 msgid "Dismiss"
 msgstr "Dismiss"
 
-#: ml-slider.php:2181
+#: ml-slider.php:2182
 msgid "Add-ons / Other Plugins"
 msgstr "Add-ons / Other Plugins"
 
-#: ml-slider.php:2181
+#: ml-slider.php:2182
 msgid "View Add-ons / Other Plugins"
 msgstr "View Add-ons / Other Plugins"
 
-#: ml-slider.php:2083
+#: ml-slider.php:2084
 msgid "To display your slideshow using id or title, add the following shortcodes (in orange) to your page. If adding the slideshow to your theme files, additionally include the surrounding PHP function (in gray)."
 msgstr "To display your slideshow using id or title, add the following shortcodes (in orange) to your page. If adding the slideshow to your theme files, additionally include the surrounding PHP function (in grey)."
 
-#: ml-slider.php:1565
+#: ml-slider.php:1566
 msgid "Click to toggle"
 msgstr "Click to toggle"
 
-#: ml-slider.php:2069
+#: ml-slider.php:2070
 msgid "How to Use"
 msgstr "How to Use"
 
@@ -276,103 +501,103 @@ msgstr "Item was copied to your clipboard"
 msgid "Success"
 msgstr "Success"
 
-#: ml-slider.php:2190
+#: ml-slider.php:2191
 msgid "View The Documentation"
 msgstr "View The Documentation"
 
-#: ml-slider.php:2171
+#: ml-slider.php:2172
 msgid "Layout"
 msgstr "Layout"
 
-#: ml-slider.php:2151
+#: ml-slider.php:2152
 msgid "Get The Pro Pack Today!"
 msgstr "Get The Pro Pack Today!"
 
-#: ml-slider.php:2149
+#: ml-slider.php:2150
 msgid "Upgrade Now"
 msgstr "Upgrade Now"
 
-#: ml-slider.php:2113
+#: ml-slider.php:2114
 msgid "Leave a review"
 msgstr "Leave a review"
 
-#: ml-slider.php:2106
+#: ml-slider.php:2107
 msgid "Premium Support"
 msgstr "Premium Support"
 
-#: ml-slider.php:2110
+#: ml-slider.php:2111
 msgid "Support"
 msgstr "Support"
 
-#: ml-slider.php:2104
+#: ml-slider.php:2105
 msgid "Take a tour"
 msgstr "Take a tour"
 
-#: ml-slider.php:1854
+#: ml-slider.php:1855
 msgid "Delete Slideshow"
 msgstr "Delete Slideshow"
 
-#: ml-slider.php:1546
+#: ml-slider.php:1547
 msgid "Trash"
 msgstr "Trash"
 
-#: ml-slider.php:1545
+#: ml-slider.php:1546
 msgid "View trashed slides"
 msgstr "View trashed slides"
 
-#: ml-slider.php:1513
+#: ml-slider.php:1514
 msgid "Filmstrip"
 msgstr "Filmstrip"
 
-#: ml-slider.php:1509
+#: ml-slider.php:1510
 msgid "Thumbnail"
 msgstr "Thumbnail"
 
-#: ml-slider.php:1401
+#: ml-slider.php:1402
 msgid "You are viewing slides that have been trashed, which will be automatically deleted in %s days. Click <a href=\"%s\">here</a> to view active slides."
 msgstr "You are viewing slides that have been trashed, which will be automatically deleted in %s days. Click <a href=\"%s\">here</a> to view active slides."
 
-#: ml-slider.php:1372
+#: ml-slider.php:1373
 msgid "Add a New Slide"
 msgstr "Add a New Slide"
 
-#: ml-slider.php:1364
+#: ml-slider.php:1365
 msgid "<a href=\"%s\">view active</a>"
 msgstr "<a href=\"%s\">view active</a>"
 
-#: ml-slider.php:1363
+#: ml-slider.php:1364
 msgid "Trashed Slides"
 msgstr "Trashed Slides"
 
-#: ml-slider.php:1240
+#: ml-slider.php:1241
 msgid "Create a New Slideshow"
 msgstr "Create a New Slideshow"
 
-#: ml-slider.php:1227
+#: ml-slider.php:1228
 msgid "Select Slideshow"
 msgstr "Select Slideshow"
 
-#: ml-slider.php:1085
+#: ml-slider.php:1086
 msgid "Get the Add-on Pack today!"
 msgstr "Get the Add-on Pack today!"
 
-#: ml-slider.php:928 ml-slider.php:1247
+#: ml-slider.php:929 ml-slider.php:1248
 msgid "New Slideshow"
 msgstr "New Slideshow"
 
-#: ml-slider.php:746
+#: ml-slider.php:747
 msgid "The slide was successfully trashed"
 msgstr "The slide was successfully trashed"
 
-#: ml-slider.php:713
+#: ml-slider.php:714
 msgid "The attempt to restore the slide failed."
 msgstr "The attempt to restore the slide failed."
 
-#: ml-slider.php:697
+#: ml-slider.php:698
 msgid "The slide was successfully restored"
 msgstr "The slide was successfully restored"
 
-#: ml-slider.php:491
+#: ml-slider.php:492
 msgid "Add to slideshow"
 msgstr "Add to slideshow"
 
@@ -384,19 +609,19 @@ msgstr "Previous"
 msgid "This isn't an accepted image. Please try again."
 msgstr "This isn't an accepted image. Please try again."
 
-#: inc/slide/metaslide.class.php:380 inc/slide/metaslide.image.class.php:252
+#: inc/slide/metaslide.class.php:384 inc/slide/metaslide.image.class.php:252
 msgid "Update slide image"
 msgstr "Update slide image"
 
-#: inc/slide/metaslide.class.php:370
+#: inc/slide/metaslide.class.php:374
 msgid "Delete Permanently"
 msgstr "Delete Permanently"
 
-#: inc/slide/metaslide.class.php:358
+#: inc/slide/metaslide.class.php:362
 msgid "Restore"
 msgstr "Restore"
 
-#: inc/slide/metaslide.class.php:277
+#: inc/slide/metaslide.class.php:281
 msgid "There was an error while updating the database. Please try again."
 msgstr "There was an error while updating the database. Please try again."
 
@@ -413,89 +638,36 @@ msgid "The requested slide does not exist or something is wrong with the current
 msgstr "The requested slide does not exist or something is wrong with the current image. Please try again or remove this slide."
 
 #: admin/views/pages/upgrade.php:180
-msgid "Logging in with %s is simple. Once users have installed the app onto their smartphone and secured it using a fingerprint or 4-number pin, they just open the app, point it at the moving on-screen barcode and voila!"
-msgstr "Logging in with %s is simple. Once users have installed the app onto their smartphone and secured it using a fingerprint or 4-number pin, they just open the app, point it at the moving on-screen barcode and voila!"
-
-#: admin/views/pages/upgrade.php:179
-msgid "Using innovative RSA public-key cryptography, %s is highly secure and prevents password-based hacking risks such as brute-forcing, key-logging, shoulder-surfing and connection sniffing."
-msgstr "Using innovative RSA public-key cryptography, %s is highly secure and prevents password-based hacking risks such as brute-forcing, key-logging, shoulder-surfing and connection sniffing."
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Logging in with Keyy is simple. Once users have installed the app onto their smartphone and secured it using a fingerprint or 4-number pin, they just open the app, point it at the moving on-screen barcode and voila!"
+msgstr "Logging in with Keyy is simple. Once users have installed the app onto their smartphone and secured it using a fingerprint or 4-number pin, they just open the app, point it at the moving on-screen barcode and voila!"
 
 #: admin/views/pages/upgrade.php:178
-msgid "%s is a unique 2-factor authentication plugin that allows you to log in to your website with just a wave of your smartphone. It represents the ultimate UX, doing away with the need for usernames, passwords and other 2FA tokens."
-msgstr "%s is a unique 2-factor authentication plugin that allows you to log in to your website with just a wave of your smartphone. It represents the ultimate UX, doing away with the need for usernames, passwords and other 2FA tokens."
-
-#: admin/views/pages/upgrade.php:177
-msgid "%s – instant &amp; secure logins with a wave of your phone"
-msgstr "%s – instant &amp; secure logins with a wave of your phone"
-
-#: admin/views/pages/upgrade.php:176
-msgid "%s Two-Factor Authentication"
-msgstr "%s Two-Factor Authentication"
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy is a unique 2-factor authentication plugin that allows you to log in to your website with just a wave of your smartphone. It represents the ultimate UX, doing away with the need for usernames, passwords and other 2FA tokens."
+msgstr "Keyy is a unique 2-factor authentication plugin that allows you to log in to your website with just a wave of your smartphone. It represents the ultimate UX, doing away with the need for usernames, passwords and other 2FA tokens."
 
 #: admin/views/pages/upgrade.php:168
-msgid "%s has a load of valuable features, including automated weekly clean up scheduling, the retention of a set number of weeks’ data, a display of how much space can be cleared, the enabling / disabling of trackbacks and comments for all published posts, and an ‘administrators only’ security feature."
-msgstr "%s has a load of valuable features, including automated weekly clean up scheduling, the retention of a set number of weeks’ data, a display of how much space can be cleared, the enabling / disabling of trackbacks and comments for all published posts, and an ‘administrators only’ security feature."
-
-#: admin/views/pages/upgrade.php:167
-msgid "Incredibly simple to use, %s clears out old webpage revisions, spam, trash and unapproved comments, all of which take up megabytes of valuable space and leave your database sluggish and ultimately unfit for purpose."
-msgstr "Incredibly simple to use, %s clears out old webpage revisions, spam, trash and unapproved comments, all of which take up megabytes of valuable space and leave your database sluggish and ultimately unfit for purpose."
-
-#: admin/views/pages/upgrade.php:166
-msgid "%s, the #1 optimization plugin, keeps your %s site at prime speed by cleaning the database without the need for %s."
-msgstr "%s, the #1 optimization plugin, keeps your %s site at prime speed by cleaning the database without the need for %s."
-
-#: admin/views/pages/upgrade.php:165
-msgid "%s – faster, fitter, cleaner WP sites for optimal performance."
-msgstr "%s – faster, fitter, cleaner WP sites for optimal performance."
-
-#: admin/views/pages/upgrade.php:156
-msgid "With a wide range of useful features, including automated backup schedules and sophisticated one click updates, UpdraftCentral is sure to boost to your productivity and save you time."
-msgstr "With a wide range of useful features, including automated backup schedules and sophisticated one click updates, UpdraftCentral is sure to boost to your productivity and save you time."
-
-#: admin/views/pages/upgrade.php:155
-msgid "%s is a powerful tool that allows you to efficiently manage, update, backup and even restore multiple websites from just one location. You can also manage users and comments on all the sites at once, and through its central login feature, you can access each WP-dashboard with a single click."
-msgstr "%s is a powerful tool that allows you to efficiently manage, update, backup and even restore multiple websites from just one location. You can also manage users and comments on all the sites at once, and through its central login feature, you can access each WP-dashboard with a single click."
-
-#: admin/views/pages/upgrade.php:154
-msgid "If you manage a few %s sites, you need UpdraftCentral."
-msgstr "If you manage a few %s sites, you need UpdraftCentral."
-
-#: admin/views/pages/upgrade.php:153
-msgid "%s – save hours managing multiple WP sites from one place"
-msgstr "%s – save hours managing multiple WP sites from one place"
-
-#: admin/views/pages/upgrade.php:152
-msgid "%s Dashboard"
-msgstr "%s Dashboard"
+msgctxt "ml-slider"
+msgid "WP-Optimize has a load of valuable features, including automated weekly clean up scheduling, the retention of a set number of weeks’ data, a display of how much space can be cleared, the enabling / disabling of trackbacks and comments for all published posts, and an ‘administrators only’ security feature."
+msgstr "WP-Optimize has a load of valuable features, including automated weekly clean up scheduling, the retention of a set number of weeks’ data, a display of how much space can be cleared, the enabling / disabling of trackbacks and comments for all published posts, and an ‘administrators only’ security feature."
 
 #: admin/views/pages/upgrade.php:145 admin/views/pages/upgrade.php:157
 #: admin/views/pages/upgrade.php:169 admin/views/pages/upgrade.php:181
 msgid "Try for free"
 msgstr "Try for free"
 
-#: admin/views/pages/upgrade.php:144
-msgid "With a long-standing reputation for excellence and outstanding reviews, it’s no wonder that %s is the world’s most popular %s backup plugin."
-msgstr "With a long-standing reputation for excellence and outstanding reviews, it’s no wonder that %s is the world’s most popular %s backup plugin."
-
 #: admin/views/pages/upgrade.php:143
 msgid "You can also migrate your website with few clicks without hassle."
 msgstr "You can also migrate your website with few clicks without hassle."
-
-#: admin/views/pages/upgrade.php:142
-msgid "With %s, you can rest assured that if the worst does happen, it's no big deal. rather than losing everything, you can simply restore the backup and be up and running again in no time at all."
-msgstr "With %s, you can rest assured that if the worst does happen, it's no big deal. rather than losing everything, you can simply restore the backup and be up and running again in no time at all."
 
 #: admin/views/pages/upgrade.php:141
 msgid "Hacking, server crashes, dodgy updates or simple user error can ruin everything."
 msgstr "Hacking, server crashes, dodgy updates or simple user error can ruin everything."
 
 #: admin/views/pages/upgrade.php:140
-msgid "If you’ve got a %s website, you need a backup."
-msgstr "If you’ve got a %s website, you need a backup."
-
-#: admin/views/pages/upgrade.php:138
-msgid "%s – the ultimate protection for your site, hard work and business"
-msgstr "%s – the ultimate protection for your site, hard work and business"
+msgid "If you’ve got a WordPress website, you need a backup."
+msgstr "If you’ve got a WordPress website, you need a backup."
 
 #: admin/views/pages/upgrade.php:130
 msgid "More Professional-Quality Plugins for your Website"
@@ -510,8 +682,8 @@ msgid "Premium support"
 msgstr "Premium support"
 
 #: admin/views/pages/upgrade.php:89
-msgid "Easily build slides based on your %s posts."
-msgstr "Easily build slides based on your %s posts."
+msgid "Easily build slides based on your WordPress posts."
+msgstr "Easily build slides based on your WordPress posts."
 
 #: admin/views/pages/upgrade.php:88
 msgid "Post feed slides"
@@ -526,16 +698,8 @@ msgid "Add slide layers"
 msgstr "Add slide layers"
 
 #: admin/views/pages/upgrade.php:75
-msgid "Create completely customized %s slides using the inline editor."
-msgstr "Create completely customized %s slides using the inline editor."
-
-#: admin/views/pages/upgrade.php:74
-msgid "%s overlay slides"
-msgstr "%s overlay slides"
-
-#: admin/views/pages/upgrade.php:68
-msgid "Easily include responsive high definition %s and %s videos."
-msgstr "Easily include responsive high definition %s and %s videos."
+msgid "Create completely customized HTML slides using the inline editor."
+msgstr "Create completely customized HTML slides using the inline editor."
 
 #: admin/views/pages/upgrade.php:67
 msgid "Add video slides"
@@ -556,25 +720,13 @@ msgstr "Easily allow users to navigate your slideshows by thumbnails."
 msgid "Thumbnail navigation"
 msgstr "Thumbnail navigation"
 
-#: admin/views/pages/upgrade.php:54
-msgid "Unique %s functionality ensures your slides are perfectly resized."
-msgstr "Unique %s functionality ensures your slides are perfectly resized."
-
 #: admin/views/pages/upgrade.php:53
 msgid "Intelligent image cropping"
 msgstr "Intelligent image cropping"
 
-#: admin/views/pages/upgrade.php:47
-msgid "Our word to keep %s compatible with the latest versions of %s."
-msgstr "Our word to keep %s compatible with the latest versions of %s."
-
 #: admin/views/pages/upgrade.php:46
 msgid "Regular updates"
 msgstr "Regular updates"
-
-#: admin/views/pages/upgrade.php:40
-msgid "Including %s, %s and we will soon be adding more."
-msgstr "Including %s, %s and we will soon be adding more."
 
 #: admin/views/pages/upgrade.php:39
 msgid "Multiple slideshow types"
@@ -615,17 +767,13 @@ msgstr "Installed"
 msgid "pro"
 msgstr "pro"
 
-#: admin/views/pages/upgrade.php:21 ml-slider.php:350 ml-slider.php:2109
+#: admin/views/pages/upgrade.php:21 ml-slider.php:351 ml-slider.php:2110
 msgid "Add-ons"
 msgstr "Add-ons"
 
 #: admin/views/pages/upgrade.php:20
 msgid "free"
 msgstr "free"
-
-#: admin/views/pages/upgrade.php:20 admin/views/pages/upgrade.php:21
-msgid "logo"
-msgstr "logo"
 
 #: admin/views/pages/upgrade.php:15
 msgid "Comparison Chart"
@@ -707,7 +855,7 @@ msgstr "Skip this step"
 msgid "Next"
 msgstr "Next"
 
-#: admin/Tour.php:48 ml-slider.php:1085
+#: admin/Tour.php:48 ml-slider.php:1086
 msgid "Learn More"
 msgstr "Learn More"
 
@@ -753,8 +901,8 @@ msgstr "This item does not exist. Please refresh the page and try again."
 
 #: admin/Notices.php:585 admin/Tour.php:123 inc/slide/metaslide.class.php:133
 #: inc/slide/metaslide.image.class.php:122
-#: inc/slide/metaslide.image.class.php:163 ml-slider.php:617 ml-slider.php:684
-#: ml-slider.php:733
+#: inc/slide/metaslide.image.class.php:163 ml-slider.php:618 ml-slider.php:685
+#: ml-slider.php:734
 msgid "The security check failed. Please refresh the page and try again."
 msgstr "The security check failed. Please refresh the page and try again."
 
@@ -774,29 +922,9 @@ msgstr "Sign up"
 msgid "Find out more"
 msgstr "Find out more"
 
-#: admin/Notices.php:567
-msgid "Review MetaSlider"
-msgstr "Review MetaSlider"
-
 #: admin/Notices.php:566
 msgid "Let's Start"
 msgstr "Let's Start"
-
-#: admin/Notices.php:565
-msgid "Get UpdraftCentral"
-msgstr "Get UpdraftCentral"
-
-#: admin/Notices.php:564
-msgid "Optimize today"
-msgstr "Optimize today"
-
-#: admin/Notices.php:563
-msgid "Get Keyy"
-msgstr "Get Keyy"
-
-#: admin/Notices.php:562
-msgid "Get UpdraftPlus"
-msgstr "Get UpdraftPlus"
 
 #: admin/Notices.php:546
 msgid "weeks"
@@ -806,74 +934,30 @@ msgstr "weeks"
 msgid "is a highly efficient way to manage, update and backup multiple websites from one place."
 msgstr "is a highly efficient way to manage, update and backup multiple websites from one place."
 
-#: admin/Notices.php:332
-msgid "UpdraftCentral"
-msgstr "UpdraftCentral"
-
 #: admin/Notices.php:326
 msgid "Simple & secure login with a wave of your phone."
 msgstr "Simple & secure login with a wave of your phone."
-
-#: admin/Notices.php:325
-msgid "Keyy:"
-msgstr "Keyy:"
 
 #: admin/Notices.php:319
 msgid "auto-clean your WordPress database so that it runs at maximum efficiency."
 msgstr "auto-clean your WordPress database so that it runs at maximum efficiency."
 
-#: admin/Notices.php:318
-msgid "WP-Optimize:"
-msgstr "WP-Optimize:"
-
 #: admin/Notices.php:312
 msgid "simplifies backups and restoration. It is the world's highest ranking and most popular scheduled backup plugin, with over a million currently-active installs."
 msgstr "simplifies backups and restoration. It is the world's highest ranking and most popular scheduled backup plugin, with over a million currently-active installs."
 
-#: admin/Notices.php:311
-msgid "UpdraftPlus"
-msgstr "UpdraftPlus"
-
 #: admin/Notices.php:291
 msgid "Increase your conversion rate with video slides and many more options."
 msgstr "Increase your conversion rate with video slides and many more options."
-
-#: admin/Notices.php:290
-msgid "MetaSlider Add-on Pack:"
-msgstr "MetaSlider Add-on Pack:"
-
-#: admin/Notices.php:267
-msgid "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
-msgstr "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
-
-#: admin/Notices.php:254
-msgid "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
-msgstr "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
-
-#: admin/Notices.php:241
-msgid "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
-msgstr "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
-
-#: admin/Notices.php:228
-msgid "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
-msgstr "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
 
 #: admin/Notices.php:216 admin/Notices.php:229 admin/Notices.php:242
 #: admin/Notices.php:255 admin/Notices.php:268
 msgid "To benefit, use this discount code:"
 msgstr "To benefit, use this discount code:"
 
-#: admin/Notices.php:215
-msgid "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
-msgstr "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
-
 #: admin/Notices.php:173
 msgid "Supercharge & secure your WordPress site with our other top plugins:"
 msgstr "Supercharge & secure your WordPress site with our other top plugins:"
-
-#: admin/Notices.php:172
-msgid "Thank you for installing MetaSlider"
-msgstr "Thank you for installing MetaSlider"
 
 #: admin/Notices.php:162
 msgid "Please go here for instructions - it is easy."
@@ -891,25 +975,9 @@ msgstr "Upgrade today to benefit from many more premium features. Find out more.
 msgid "Increase your revenue and conversion with video slides and many more features"
 msgstr "Increase your revenue and conversion with video slides and many more features"
 
-#: admin/Notices.php:142
-msgid "With the MetaSlider Add-on pack you can give your slideshows a professional look!"
-msgstr "With the MetaSlider Add-on pack you can give your slideshows a professional look!"
-
 #: admin/Notices.php:141
 msgid "Spice up your site with animated layers and video slides"
 msgstr "Spice up your site with animated layers and video slides"
-
-#: admin/Notices.php:122
-msgid "Please help MetaSlider by giving a positive review at wordpress.org."
-msgstr "Please help MetaSlider by giving a positive review at wordpress.org."
-
-#: admin/Notices.php:121
-msgid "Like MetaSlider and have a minute to spare?"
-msgstr "Like MetaSlider and have a minute to spare?"
-
-#: admin/Notices.php:111
-msgid "UpdraftCentral is a highly efficient way to take backup, update and manage multiple WP sites from one location"
-msgstr "UpdraftCentral is a highly efficient way to take backup, update and manage multiple WP sites from one location"
 
 #: admin/Notices.php:110
 msgid "Save Time and Money. Manage multiple WordPress sites from one location."
@@ -919,14 +987,6 @@ msgstr "Save Time and Money. Manage multiple WordPress sites from one location."
 msgid "No more forgotten passwords. Find out more about our revolutionary new WordPress plugin"
 msgstr "No more forgotten passwords. Find out more about our revolutionary new WordPress plugin"
 
-#: admin/Notices.php:99
-msgid "Keyy: Instant and secure logon with a wave of your phone"
-msgstr "Keyy: Instant and secure logon with a wave of your phone"
-
-#: admin/Notices.php:89
-msgid "UpdraftPlus is the world's #1 backup plugin from the makers of MetaSlider. Backup to the cloud, on a schedule and restore with 1 click!"
-msgstr "UpdraftPlus is the world's #1 backup plugin from the makers of MetaSlider. Backup to the cloud, on a schedule and restore with 1 click!"
-
 #: admin/Notices.php:88
 msgid "Always backup WordPress to avoid losing your site!"
 msgstr "Always backup WordPress to avoid losing your site!"
@@ -935,19 +995,19 @@ msgstr "Always backup WordPress to avoid losing your site!"
 msgid "Team Updraft"
 msgstr "Team Updraft"
 
-#: ml-slider.php:532
+#: ml-slider.php:533
 msgid "Layer Slide"
 msgstr "Layer Slide"
 
-#: ml-slider.php:531
+#: ml-slider.php:532
 msgid "YouTube"
 msgstr "YouTube"
 
-#: ml-slider.php:530
+#: ml-slider.php:531
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: ml-slider.php:529
+#: ml-slider.php:530
 msgid "Post Feed"
 msgstr "Post Feed"
 
@@ -955,411 +1015,398 @@ msgstr "Post Feed"
 msgid "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
 msgstr "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
 
-#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.0)  #-#-#-#-#
+#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.2)  #-#-#-#-#
 #. Plugin URI of the plugin/theme
-#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.0)  #-#-#-#-#
+#. #-#-#-#-#  ml-slider-code.pot (MetaSlider 3.10.2)  #-#-#-#-#
 #. Author URI of the plugin/theme
 msgid "https://www.metaslider.com"
 msgstr "https://www.metaslider.com"
 
-#: ml-slider.php:1931
+#: ml-slider.php:1932
 msgid "Insert slideshow"
 msgstr "Insert slideshow"
 
-#: ml-slider.php:1925
+#: ml-slider.php:1926
 msgid "Choose slideshow"
 msgstr "Choose slideshow"
 
-#: ml-slider.php:1923
-msgid "Insert MetaSlider"
-msgstr "Insert MetaSlider"
-
-#: ml-slider.php:1889
+#: ml-slider.php:1890
 msgid "Add slider"
 msgstr "Add slider"
 
-#: ml-slider.php:1886
+#: ml-slider.php:1887
 msgid "Select slideshow to insert into post"
 msgstr "Select slideshow to insert into post"
 
-#: ml-slider.php:1839
+#: ml-slider.php:1840
 msgid "Delay adding the flexslider class to the slideshow"
 msgstr "Delay adding the flexslider class to the slideshow"
 
-#: ml-slider.php:1836
+#: ml-slider.php:1837
 msgid "No conflict mode"
 msgstr "No conflict mode"
 
-#: ml-slider.php:1831
+#: ml-slider.php:1832
 msgid "Uncheck this is you would like to include your own Javascript"
 msgstr "Uncheck this if you would like to include your own Javascript."
 
-#: ml-slider.php:1828
+#: ml-slider.php:1829
 msgid "Print JS"
 msgstr "Print JS"
 
-#: ml-slider.php:1823
+#: ml-slider.php:1824
 msgid "Uncheck this is you would like to include your own CSS"
 msgstr "Uncheck this if you would like to include your own CSS."
 
-#: ml-slider.php:1820
+#: ml-slider.php:1821
 msgid "Print CSS"
 msgstr "Print CSS"
 
-#: ml-slider.php:1814
+#: ml-slider.php:1815
 msgid "Specify any custom CSS Classes you would like to be added to the slider wrapper"
 msgstr "Specify any custom CSS Classes you would like to have added to the slider wrapper."
 
-#: ml-slider.php:1812
+#: ml-slider.php:1813
 msgid "CSS classes"
 msgstr "CSS classes"
 
-#: ml-slider.php:1807
+#: ml-slider.php:1808
 msgid "Developer options"
 msgstr "Developer options"
 
-#: ml-slider.php:1800
+#: ml-slider.php:1801
 msgid "Set the fade in speed of the caption"
 msgstr "Set the fade in speed of the caption"
 
-#: ml-slider.php:1798
+#: ml-slider.php:1799
 msgid "Caption speed"
 msgstr "Caption speed"
 
-#: ml-slider.php:1787
+#: ml-slider.php:1788
 msgid "Opacity of title and navigation"
 msgstr "Opacity of title and navigation"
 
-#: ml-slider.php:1785
+#: ml-slider.php:1786
 msgid "Opacity"
 msgstr "Opacity"
 
-#: ml-slider.php:1774
+#: ml-slider.php:1775
 msgid "Delay between squares in ms"
 msgstr "Delay between squares in ms"
 
-#: ml-slider.php:1772
+#: ml-slider.php:1773
 msgid "Square delay"
 msgstr "Square delay"
 
-#: ml-slider.php:1761
+#: ml-slider.php:1762
 msgid "Set the text for the 'next' direction item"
 msgstr "Set the text for the 'next' direction item"
 
-#: ml-slider.php:1759
+#: ml-slider.php:1760
 msgid "Next text"
 msgstr "Next text"
 
-#: ml-slider.php:1753
+#: ml-slider.php:1754
 msgid "Set the text for the 'previous' direction item"
 msgstr "Set the text for the 'previous' direction item"
 
-#: ml-slider.php:1751
+#: ml-slider.php:1752
 msgid "Previous text"
 msgstr "Previous text"
 
-#: ml-slider.php:1744
+#: ml-slider.php:1745
 msgid "Animation easing effect"
 msgstr "Animation easing effect"
 
-#: ml-slider.php:1742
+#: ml-slider.php:1743
 msgid "Easing"
 msgstr "Easing"
 
-#: ml-slider.php:1736
+#: ml-slider.php:1737
 msgid "Vertical"
 msgstr "Vertical"
 
-#: ml-slider.php:1735
+#: ml-slider.php:1736
 msgid "Horizontal"
 msgstr "Horizontal"
 
-#: ml-slider.php:1732
+#: ml-slider.php:1733
 msgid "Select the sliding direction"
 msgstr "Select the sliding direction"
 
-#: ml-slider.php:1730
+#: ml-slider.php:1731
 msgid "Slide direction"
 msgstr "Slide direction"
 
-#: ml-slider.php:1709 ml-slider.php:1711 ml-slider.php:1722 ml-slider.php:1724
+#: ml-slider.php:1710 ml-slider.php:1712 ml-slider.php:1723 ml-slider.php:1725
 msgid "Number of squares"
 msgstr "Number of squares"
 
-#: ml-slider.php:1696 ml-slider.php:1698
+#: ml-slider.php:1697 ml-slider.php:1699
 msgid "Number of slices"
 msgstr "Number of slices"
 
-#: ml-slider.php:1685
+#: ml-slider.php:1686
 msgid "Set the speed of animations, in milliseconds"
 msgstr "Set the speed of animations, in milliseconds"
 
-#: ml-slider.php:1683
+#: ml-slider.php:1684
 msgid "Animation speed"
 msgstr "Animation speed"
 
-#: ml-slider.php:1673 ml-slider.php:1686 ml-slider.php:1699 ml-slider.php:1775
-#: ml-slider.php:1801
-msgid "ms"
-msgstr "ms"
-
-#: ml-slider.php:1672
+#: ml-slider.php:1673
 msgid "How long to display each slide, in milliseconds"
 msgstr "How long to display each slide, in milliseconds"
 
-#: ml-slider.php:1670
+#: ml-slider.php:1671
 msgid "Slide delay"
 msgstr "Slide delay"
 
-#: ml-slider.php:1660
+#: ml-slider.php:1661
 msgid "Reverse the animation direction"
 msgstr "Reverse the animation direction"
 
-#: ml-slider.php:1657
+#: ml-slider.php:1658
 msgid "Reverse"
 msgstr "Reverse"
 
-#: ml-slider.php:1652
+#: ml-slider.php:1653
 msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
 msgstr "Pause the slideshow when hovering over slider, then resume when no longer hovering."
 
-#: ml-slider.php:1649
+#: ml-slider.php:1650
 msgid "Hover pause"
 msgstr "Hover pause"
 
-#: ml-slider.php:1644
+#: ml-slider.php:1645
 msgid "Randomise the order of the slides"
 msgstr "Randomise the order of the slides"
 
-#: ml-slider.php:1627
+#: ml-slider.php:1628
 msgid "Pixel margin between slides in carousel."
 msgstr "Pixel margin between slides in carousel."
 
-#: ml-slider.php:1624
+#: ml-slider.php:1625
 msgid "Carousel margin"
 msgstr "Carousel margin"
 
-#: ml-slider.php:1616
+#: ml-slider.php:1617
 msgid "Display multiple slides at once. Slideshow output will be 100% wide."
 msgstr "Display multiple slides at once. Slideshow output will be 100% wide."
 
-#: ml-slider.php:1613
+#: ml-slider.php:1614
 msgid "Carousel mode"
 msgstr "Carousel mode"
 
-#: ml-slider.php:1608
+#: ml-slider.php:1609
 msgid "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
 msgstr "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
 
-#: ml-slider.php:1606
+#: ml-slider.php:1607
 msgid "Disabled (Smart Pad)"
 msgstr "Disabled (Smart Pad)"
 
-#: ml-slider.php:1605
+#: ml-slider.php:1606
 msgid "Disabled"
 msgstr "Disabled"
 
-#: ml-slider.php:1604
+#: ml-slider.php:1605
 msgid "Standard"
 msgstr "Standard"
 
-#: ml-slider.php:1603
+#: ml-slider.php:1604
 msgid "Smart Crop"
 msgstr "Smart Crop"
 
-#: ml-slider.php:1599
+#: ml-slider.php:1600
 msgid "Image Crop"
 msgstr "Image Crop"
 
-#: ml-slider.php:1594
+#: ml-slider.php:1595
 msgid "Transition between slides automatically"
 msgstr "Transition between slides automatically"
 
-#: ml-slider.php:1591
+#: ml-slider.php:1592
 msgid "Auto play"
 msgstr "Auto play"
 
-#: ml-slider.php:1586
+#: ml-slider.php:1587
 msgid "Center align the slideshow"
 msgstr "Center align the slideshow"
 
-#: ml-slider.php:1583
+#: ml-slider.php:1584
 msgid "Center align"
 msgstr "Center align"
 
-#: ml-slider.php:1578
+#: ml-slider.php:1579
 msgid "Stretch the slideshow output to fill it's parent container"
 msgstr "Stretch the slideshow output to fill it's parent container"
 
-#: ml-slider.php:1576
+#: ml-slider.php:1577
 msgid "100% wide output"
 msgstr "100% wide output"
 
-#: ml-slider.php:1574
+#: ml-slider.php:1575
 msgid "Stretch"
 msgstr "Stretch"
 
-#: ml-slider.php:1565
+#: ml-slider.php:1566
 msgid "Advanced Settings"
 msgstr "Advanced Settings"
 
-#: ml-slider.php:1527
+#: ml-slider.php:1528
 msgid "Slideshow title"
 msgstr "Slideshow title"
 
-#: ml-slider.php:1526
+#: ml-slider.php:1527
 msgid "Title"
 msgstr "Title"
 
-#: ml-slider.php:1507
+#: ml-slider.php:1508
 msgid "Dots"
 msgstr "Dots"
 
-#: ml-slider.php:1506
+#: ml-slider.php:1507
 msgid "Hidden"
 msgstr "Hidden"
 
-#: ml-slider.php:1504
+#: ml-slider.php:1505
 msgid "Show the slide navigation bullets"
 msgstr "Show the slide navigation bullets"
 
-#: ml-slider.php:1501
+#: ml-slider.php:1502
 msgid "Navigation"
 msgstr "Navigation"
 
-#: ml-slider.php:1496
+#: ml-slider.php:1497
 msgid "Show the previous/next arrows"
 msgstr "Show the previous/next arrows"
 
-#: ml-slider.php:1493
+#: ml-slider.php:1494
 msgid "Arrows"
 msgstr "Arrows"
 
-#: ml-slider.php:1487
+#: ml-slider.php:1488
 msgid "Slide"
 msgstr "Slide"
 
-#: ml-slider.php:1486
+#: ml-slider.php:1487
 msgid "Box Rain Grow Reverse"
 msgstr "Box Rain Grow Reverse"
 
-#: ml-slider.php:1485
+#: ml-slider.php:1486
 msgid "Box Rain Reverse"
 msgstr "Box Rain Reverse"
 
-#: ml-slider.php:1484
+#: ml-slider.php:1485
 msgid "Box Rain"
 msgstr "Box Rain"
 
-#: ml-slider.php:1483
+#: ml-slider.php:1484
 msgid "Box Random"
 msgstr "Box Random"
 
-#: ml-slider.php:1482
+#: ml-slider.php:1483
 msgid "Slide In Left"
 msgstr "Slide In Left"
 
-#: ml-slider.php:1481
+#: ml-slider.php:1482
 msgid "Slide In Right"
 msgstr "Slide In Right"
 
-#: ml-slider.php:1480
+#: ml-slider.php:1481
 msgid "Fade"
 msgstr "Fade"
 
-#: ml-slider.php:1479
+#: ml-slider.php:1480
 msgid "Fold"
 msgstr "Fold"
 
-#: ml-slider.php:1478
+#: ml-slider.php:1479
 msgid "Slide Up Down Left"
 msgstr "Slide Up Down Left"
 
-#: ml-slider.php:1477
+#: ml-slider.php:1478
 msgid "Slice Up Down"
 msgstr "Slice Up Down"
 
-#: ml-slider.php:1476
+#: ml-slider.php:1477
 msgid "Slide Up Left"
 msgstr "Slide Up Left"
 
-#: ml-slider.php:1475
+#: ml-slider.php:1476
 msgid "Slice Up"
 msgstr "Slice Up"
 
-#: ml-slider.php:1474
+#: ml-slider.php:1475
 msgid "Slide Down"
 msgstr "Slide Down"
 
-#: ml-slider.php:1473
+#: ml-slider.php:1474
 msgid "Straight"
 msgstr "Straight"
 
-#: ml-slider.php:1472
+#: ml-slider.php:1473
 msgid "Rain"
 msgstr "Rain"
 
-#: ml-slider.php:1471
+#: ml-slider.php:1472
 msgid "Swirl"
 msgstr "Swirl"
 
-#: ml-slider.php:1470 ml-slider.php:1641
+#: ml-slider.php:1471 ml-slider.php:1642
 msgid "Random"
 msgstr "Random"
 
-#: ml-slider.php:1468
+#: ml-slider.php:1469
 msgid "Slide transition effect"
 msgstr "Slide transition effect"
 
-#: ml-slider.php:1466
+#: ml-slider.php:1467
 msgid "Effect"
 msgstr "Effect"
 
-#: ml-slider.php:1459
+#: ml-slider.php:1460
 msgid "Slideshow height"
 msgstr "Slideshow height"
 
-#: ml-slider.php:1457 ml-slider.php:1722
+#: ml-slider.php:1458 ml-slider.php:1723
 msgid "Height"
 msgstr "Height"
 
-#: ml-slider.php:1447 ml-slider.php:1460 ml-slider.php:1628
+#: ml-slider.php:1448 ml-slider.php:1461 ml-slider.php:1629
 msgid "px"
 msgstr "px"
 
-#: ml-slider.php:1446
+#: ml-slider.php:1447
 msgid "Slideshow width"
 msgstr "Slideshow width"
 
-#: ml-slider.php:1444 ml-slider.php:1709
+#: ml-slider.php:1445 ml-slider.php:1710
 msgid "Width"
 msgstr "Width"
 
-#: ml-slider.php:1416
+#: ml-slider.php:1417
 msgid "Save"
 msgstr "Save"
 
-#: ml-slider.php:1374
+#: ml-slider.php:1375
 msgid "Add Slide"
 msgstr "Add Slide"
 
-#: ml-slider.php:1263 ml-slider.php:1265
+#: ml-slider.php:1264 ml-slider.php:1266
 msgid "Add a New Slideshow"
 msgstr "Add a New Slideshow"
 
-#: ml-slider.php:1239
-msgid "or"
-msgstr "or"
-
-#: ml-slider.php:2169
+#: ml-slider.php:2170
 msgid "Switch to Tab view"
 msgstr "Switch to Tab view"
 
-#: ml-slider.php:2169
+#: ml-slider.php:2170
 msgid "Switch to Dropdown view"
 msgstr "Switch to Dropdown view"
 
-#: ml-slider.php:490
+#: ml-slider.php:491
 msgid "Image"
 msgstr "Image"
 
@@ -1375,7 +1422,7 @@ msgstr "Select replacement image"
 msgid "Are you sure?"
 msgstr "Are you sure?"
 
-#: ml-slider.php:2112 ml-slider.php:2190
+#: ml-slider.php:2113 ml-slider.php:2191
 msgid "Documentation"
 msgstr "Documentation"
 
@@ -1463,11 +1510,11 @@ msgstr "Image Slide"
 msgid "Failed to add slide. Slide is not an image."
 msgstr "Failed to add slide. Slide is not an image."
 
-#: inc/slide/metaslide.class.php:349
+#: inc/slide/metaslide.class.php:353
 msgid "Delete slide"
 msgstr "Delete slide"
 
-#: inc/metaslider.widget.class.php:119 ml-slider.php:1933
+#: inc/metaslider.widget.class.php:119 ml-slider.php:1934
 msgid "No slideshows found"
 msgstr "No slideshows found"
 

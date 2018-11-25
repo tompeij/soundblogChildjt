@@ -9,6 +9,39 @@ Version: 0.1.0
 */
 
 /*test*/
+
+/* @import url("../twentyseventeen/style.css"); */
+
+ .info-box {
+     font-family: Arial, Helvetica, sans-serif;
+     margin-bottom: 2rem;
+     padding: 0 2rem 2rem;
+     background-color: hsl(0, 0%, 85%);
+ }
+
+ .info-box h1 {
+    font-size: 2.5rem;
+    margin-left: -2rem;
+    margin-right: -2rem;
+    padding: 1rem 2rem;
+    background-color: hsl(0, 0%, 10%) ;
+    color: #fff;
+ }
+
+ .info-box p {
+
+     font-size: .8rem;
+ }
+
+ .related-list a {
+     text-decoration: none;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .related-list a:hover > h3 {
+     text-decoration: underline;
+ }
+
 p {
 	color: pink;
 	font-family: 'pt serif';

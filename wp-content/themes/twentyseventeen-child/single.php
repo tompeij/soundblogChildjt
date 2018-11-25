@@ -22,6 +22,34 @@ get_header(); ?>
 
 				get_template_part( 'template-parts/post/content', get_post_format() );
 
+				if(get_field('info_box_title')){
+					echo '<div class="info-box">';
+					echo '<h1>' . get_field('info_box_title') . '</h1>';
+					the_field('info_box_content');
+					echo '</div>';
+				}?>
+		
+				<?php 
+				$posts = get_field('related_posts');
+				
+				if( $posts ) {
+		
+					echo '<h1>Further Reading </h1>';
+					echo '<ul class="related-list">';
+					foreach($posts as $post):
+						setup_postdata($post);
+						echo '<li><a href="' . get_the_permalink() . '">';
+						echo '<h3>' . get_the_title() . '</h3>';
+						the_excerpt();
+						echo '</a></li>';
+					endforeach;
+					echo '</ul>';
+					wp_reset_postdata();
+				}
+				?>
+		
+				<?php 
+
 				// If comments are open or we have at least one comment, load up the comment template.
 				if ( comments_open() || get_comments_number() ) :
 					comments_template();
