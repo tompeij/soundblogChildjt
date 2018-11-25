@@ -13,7 +13,7 @@ Version: 0.1.0
 /* @import url("../twentyseventeen/style.css"); */
 
  .info-box {
-     font-family: Arial, Helvetica, sans-serif;
+	 font-family: Arial, Helvetica, sans-serif;
      margin-bottom: 2rem;
      padding: 0 2rem 2rem;
      background-color: hsl(0, 0%, 85%);
@@ -33,6 +33,10 @@ Version: 0.1.0
      font-size: .8rem;
  }
 
+ .related-list {
+	 list-style-type: none;
+ }
+
  .related-list a {
      text-decoration: none;
      font-family: Arial, Helvetica, sans-serif;
@@ -43,7 +47,7 @@ Version: 0.1.0
  }
 
 p {
-	color: pink;
+	color: #555;
 	font-family: 'pt serif';
 }
 
