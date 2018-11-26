@@ -12,6 +12,15 @@ Version: 0.1.0
 
 /* @import url("../twentyseventeen/style.css"); */
 
+p {
+	color: #555;
+	font-family: 'pt serif';
+}
+
+.concerts p {
+	color: blue;
+}
+
  .info-box {
 	 font-family: Arial, Helvetica, sans-serif;
      margin-bottom: 2rem;
@@ -45,11 +54,6 @@ Version: 0.1.0
  .related-list a:hover > h3 {
      text-decoration: underline;
  }
-
-p {
-	color: #555;
-	font-family: 'pt serif';
-}
 
 .site-title {
 	font-family: Roboto;
