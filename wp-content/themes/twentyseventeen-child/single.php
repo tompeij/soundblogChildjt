@@ -22,14 +22,24 @@ get_header(); ?>
 
 				get_template_part( 'template-parts/post/content', get_post_format() );
 
+				// var_dump(get_field('google_map'));
+
+				echo the_field('colour-picker');
+
+				$mood = get_field('current_mood');
+				if($mood) {
+					echo '<h1 class="current-mood">'.$mood.'</h1>';
+				}
+			
+
 				if(get_field('info_box_title')){
 					echo '<div class="info-box">';
 					echo '<h1>' . get_field('info_box_title') . '</h1>';
 					the_field('info_box_content');
 					echo '</div>';
-				}?>
+				}
 		
-				<?php 
+		
 				$posts = get_field('related_posts');
 				
 				if( $posts ) {
@@ -46,9 +56,7 @@ get_header(); ?>
 					echo '</ul>';
 					wp_reset_postdata();
 				}
-				?>
-		
-				<?php 
+			
 
 				// If comments are open or we have at least one comment, load up the comment template.
 				if ( comments_open() || get_comments_number() ) :

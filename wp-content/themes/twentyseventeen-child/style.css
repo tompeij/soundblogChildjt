@@ -78,3 +78,7 @@ p {
 	display: none;
 }
 
+.current-mood {
+	font-size: 4rem;
+	font-weight: 800;
+}
